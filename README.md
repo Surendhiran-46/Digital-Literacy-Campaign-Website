@@ -26,7 +26,7 @@ A smart, voice-enabled AI chatbot created for the **Digital Literacy Campaign**,
 
 | Tech                     | Purpose                                |
 |--------------------------|----------------------------------------|
-| **React + Tailwind CSS** | Clean, responsive frontend UI          |
+| **React Vite + Tailwind CSS** | Clean, responsive frontend UI          |
 | **Flask (Python)**       | Lightweight API server + logic         |
 | **Azure OpenAI**         | GPT fallback with multilingual prompts |
 | **Azure Speech API**     | Natural voice output (Text-to-Speech)  |
