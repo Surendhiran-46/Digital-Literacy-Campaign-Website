@@ -6,8 +6,8 @@ import AIChat from './pages/AIChat';
 import Feedback from './pages/Feedback';
 import Navbar from './components/NavBar';
 import LanguageModal from './components/LanguageModal';
+import FeedbackForm from './components/FeedbackForm'
 import ChatBubble from './components/ChatBubble';
-import FeedbackForm from './components/FeedBackForm';
 import HelpCenter from './components/HelpCenter';
 
 function App() {
