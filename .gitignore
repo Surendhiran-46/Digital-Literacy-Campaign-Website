@@ -16,6 +16,7 @@ lerna-debug.log*
 
 # Python venv and __pycache__
 backend/venv/
+backend/service_account.json
 __pycache__/
 *.pyc
 
