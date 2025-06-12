@@ -132,7 +132,15 @@ You can now visit `http://localhost:5173` to test the chatbot and feedback form 
 
 ## 🌐 Live Demo
 
-> 🚀 [Live Chatbot Preview](Soon)
+> 🚀 [Live Chatbot Preview](https://digital-literacy-campaign-website.vercel.app/)
+
+---
+
+## Screenshots
+![Screenshot (216)](https://github.com/user-attachments/assets/4b1de248-ca25-47e2-9d68-e9f9da2d152b)
+![Screenshot (218)](https://github.com/user-attachments/assets/5a491f37-bbef-4d0a-b184-8ce3ca462c05)
+![Screenshot (217)](https://github.com/user-attachments/assets/5430f6cc-6cc6-4b16-99ff-fe5f68b47b77)
+![Screenshot (219)](https://github.com/user-attachments/assets/fb644708-6ba0-48d6-89dc-ca582490942e)
 
 ---
 
